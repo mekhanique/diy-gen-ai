@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@lmstudio/scaffold-node-javascript": "^0.1.0",
+    "@lmstudio/scaffold-node-javascript-empty": "^0.1.0",
+    "@lmstudio/sdk": "^0.1.0",
+    "lmstudio": "^0.0.12"
+  }
+}
